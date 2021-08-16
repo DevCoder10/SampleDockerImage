@@ -1,6 +1,6 @@
 # Dockerfile, Image, Container
 
-From rc-alpine3.13
+From python:rc-alpine3.13
 
 Add main.py .
 
