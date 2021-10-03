@@ -1,6 +1,6 @@
-# Dockerfile, Image, Container
+# Dockerfile to run python file
 
-From python:rc-alpine3.13
+From python:rc-slim
 
 Add main.py .
 
