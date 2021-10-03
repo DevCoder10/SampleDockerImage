@@ -1,5 +1,3 @@
-#simple py app
-
-print('*'*10)
+#simple py app that print message
 
 print("Hello there from python")
