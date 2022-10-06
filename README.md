@@ -25,3 +25,11 @@ License: Free / Paid
 Platform: x86-64, ARM, s390x, ppc64le
 Operating system: Linux, Windows, macOS
 Programming language: Go
+
+Initial release date: 20 March 2013
+Developer: Docker, Inc.
+Original author: Docker, Inc.
+License: Free / Paid
+Platform: x86-64, ARM, s390x, ppc64le
+Operating system: Linux, Windows, macOS
+Programming language: Go
